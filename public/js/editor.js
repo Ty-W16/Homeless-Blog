@@ -1,3 +1,7 @@
+// ########################################################
+// All javascript code created by github user "Kunaal438".
+// ########################################################
+
 const blogTitleField = document.querySelector('.title');
 const articleFeild = document.querySelector('.article');
 

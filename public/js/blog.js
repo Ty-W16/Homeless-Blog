@@ -1,3 +1,7 @@
+// ########################################################
+// All javascript code created by github user "Kunaal438".
+// ########################################################
+
 let blogId = decodeURI(location.pathname.split("/").pop());
 
 let docRef = db.collection("blogs").doc(blogId);

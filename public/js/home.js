@@ -1,3 +1,7 @@
+// ########################################################
+// All javascript code created by github user "Kunaal438".
+// ########################################################
+
 const blogSection = document.querySelector('.blogs-section');
 
 db.collection("blogs").get().then((blogs) => {

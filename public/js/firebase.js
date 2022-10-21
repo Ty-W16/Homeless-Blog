@@ -1,3 +1,7 @@
+// ########################################################
+// All javascript code created by github user "Kunaal438".
+// ########################################################
+
 let firebaseConfig = {
     // Enter your firebase credentials
 };
